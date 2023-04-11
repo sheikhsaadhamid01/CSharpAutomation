@@ -1,0 +1,15 @@
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\bin\Debug\net6.0\AutomationTraining.exe
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\bin\Debug\net6.0\AutomationTraining.deps.json
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\bin\Debug\net6.0\AutomationTraining.runtimeconfig.json
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\bin\Debug\net6.0\AutomationTraining.dll
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\bin\Debug\net6.0\AutomationTraining.pdb
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\obj\Debug\net6.0\AutomationTraining.csproj.AssemblyReference.cache
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\obj\Debug\net6.0\AutomationTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\obj\Debug\net6.0\AutomationTraining.AssemblyInfoInputs.cache
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\obj\Debug\net6.0\AutomationTraining.AssemblyInfo.cs
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\obj\Debug\net6.0\AutomationTraining.csproj.CoreCompileInputs.cache
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\obj\Debug\net6.0\AutomationTraining.dll
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\obj\Debug\net6.0\refint\AutomationTraining.dll
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\obj\Debug\net6.0\AutomationTraining.pdb
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\obj\Debug\net6.0\AutomationTraining.genruntimeconfig.cache
+C:\Users\shamid\source\repos\AutomationTraining\AutomationTraining\obj\Debug\net6.0\ref\AutomationTraining.dll
